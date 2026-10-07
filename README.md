@@ -1,5 +1,15 @@
-## Hi there 👋
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=40E0D0&center=false&pause=100000&lines=Hello,+I'm+puresky." alt="Hi"/>
+  <p>
+    <code>Born 2006-07-11</code>
+    <code>Student of Artificial Intelligence</code>
+  </p>
+</div>
 
+- I'm deep diving in AI RP now
+- welcome to exchange your works and ideas with me!
+
+*即使迷茫，也要继续前进*
 <!--
 **puresky271/puresky271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
