@@ -9,7 +9,7 @@
 - I'm deep diving in AI RP now
 - welcome to exchange your works and ideas with me!
 
-*即使迷茫，也要继续前进*
+**即使迷茫，也要继续前进**
 <!--
 **puresky271/puresky271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
